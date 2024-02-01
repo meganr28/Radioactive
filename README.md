@@ -8,3 +8,4 @@ Looking for a means of escape, you must climb to the top of the lighthouse to se
 Upon entering the lighthouse, the flashlight carried by the player is corrupted by the radiation, and turns into the “Light Beam”, able to burn away objects it lights up. The technology is additionally able to augment the player’s flashlight to include the Dark
 Beam, which negates the effects of radioactive emission, and a Mirror Beam, which reflects radioactive light off it. You must use these abilities to navigate safely through the lighthouses many twists and turns and escape the island.
 
+Trailer: https://youtu.be/XvKMo0mL28Q
