@@ -9,3 +9,4 @@ Upon entering the lighthouse, the flashlight carried by the player is corrupted 
 Beam, which negates the effects of radioactive emission, and a Mirror Beam, which reflects radioactive light off it. You must use these abilities to navigate safely through the lighthouses many twists and turns and escape the island.
 
 Trailer: https://youtu.be/XvKMo0mL28Q
+Gameplay Trailer: https://youtu.be/l1w-PL7JvHc
